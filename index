@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Política de Privacidade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 24px;
+      background: #f7f7f7;
+      color: #222;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Política de Privacidade</h1>
+    <p><strong>Última atualização:</strong> 02 de julho de 2026</p>
+    <p>A sua privacidade é importante para nós. Esta Política de Privacidade explica como o aplicativo eLivro AI coleta, usa e protege suas informações.</p>
+
+    <h2>Informações que coletamos</h2>
+    <p>O eLivro AI coleta informações limitadas para fornecer uma experiência de leitura sincronizada e inteligente:</p>
+    <ul>
+      <li><strong>Informações de autenticação:</strong> ao criar uma conta, coletamos seu endereço de e-mail por meio do Firebase Authentication.</li>
+      <li><strong>Dados de leitura:</strong> armazenamos metadados dos livros, como título e autor, além do progresso de leitura para sincronizar sua experiência entre dispositivos.</li>
+      <li><strong>Interações com IA:</strong> as perguntas feitas ao assistente de IA são processadas para gerar respostas. O conteúdo do livro é usado apenas como contexto temporário e não é utilizado para treinar modelos externos.</li>
+    </ul>
+
+    <h2>Como usamos suas informações</h2>
+    <p>Usamos os dados coletados exclusivamente para:</p>
+    <ul>
+      <li>Autenticar seu acesso com segurança.</li>
+      <li>Sincronizar sua biblioteca na nuvem.</li>
+      <li>Fornecer insights e respostas inteligentes sobre os livros por meio do assistente de IA.</li>
+    </ul>
+
+    <h2>Serviços de terceiros</h2>
+    <p>O aplicativo utiliza serviços do Google Firebase e Google Cloud Vertex AI. O tratamento desses dados segue as políticas de privacidade do Google. Consulte a <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Política de Privacidade do Google</a>.</p>
+
+    <h2>Exclusão de dados</h2>
+    <p>Você pode solicitar a exclusão da sua conta e de todos os dados associados a qualquer momento. Para isso, entre em contato por e-mail ou utilize as opções de gerenciamento de conta disponíveis no aplicativo, quando houver.</p>
+
+    <h2>Segurança</h2>
+    <p>Empregamos medidas de segurança padrão da indústria para proteger suas informações. No entanto, nenhum método de transmissão pela internet ou armazenamento eletrônico é 100% seguro.</p>
+
+    <h2>Alterações nesta política</h2>
+    <p>Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página ocasionalmente para verificar quaisquer mudanças.</p>
+
+    <h2>Contato</h2>
+    <p>Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, entre em contato conosco pelo e-mail: <a href="mailto:jaison1232@gmail.com">jaison1232@gmail.com</a>.</p>
+  </div>
+</body>
+</html>
